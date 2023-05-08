@@ -1,0 +1,1 @@
+<h1>riwayat-pendidikan/detail</h1>
